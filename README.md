@@ -2,7 +2,7 @@ Hi, I’m Shivam, a from India.
 
 👀 Student of ITM GWalior, pursuing for MCA.
 
-🌱 I’m currently polishing my Development skills over different technologies such as Js.
+🌱 I’m currently polishing my Development skills on technologies like vanila Js and MERN stack.
 
 📫 Reach me?? => email at- shivam.saini2126@gmail.com.
 
