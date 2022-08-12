@@ -1,12 +1,10 @@
-Hi, I’m @ShivamSaini26
+Hi, I’m Shivam, a from India.
 
-👀 Pursuing for MCA from RGPV Bhopal
+👀 Student of ITM GWalior, pursuing for MCA.
 
-🌱 I’m currently polishing my Development skills
+🌱 I’m currently polishing my Development skills over different technologies such as Js.
 
-💞️ Here is nothing like a professional repo, am just learning and pushing everything I learnt.
-
-📫 Reach me email at- shivam.saini2126@gmail.com.
+📫 Reach me?? => email at- shivam.saini2126@gmail.com.
 
 
 <!---
