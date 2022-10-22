@@ -1,8 +1,8 @@
-Hi, I’m Shivam, a from India.
+Hi, I’m Shivam a PG Student from India.
 
 👀 Student at ITM GWalior, pursuing MCA.
 
-🌱 I’m currently polishing my Development skills on technologies like vanila Js and MERN stack.
+🌱 I’m currently polishing my Development skills on technologies like vanila Js and MERN stack web development.
 
 📫 Reach me?? => email at- shivam.saini2126@gmail.com.
 
