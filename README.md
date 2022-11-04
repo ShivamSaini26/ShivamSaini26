@@ -1,6 +1,6 @@
 Hi, I’m Shivam a PG Student from India.
 
-👀 Student at ITM GWalior, pursuing MCA.
+👀 Student at ITM Gwalior, pursuing MCA from ITM Gwalior.
 
 🌱 I’m currently polishing my Development skills on technologies like vanila Js and MERN stack web development.
 
