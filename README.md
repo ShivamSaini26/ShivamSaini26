@@ -1,4 +1,4 @@
-🙋‍♂️Hi, I’m Shivam final year Computer application student.
+🙋‍♂️Hi, I’m Shivam a final year Computer application student.
 
 👀 Pursing MCA from ITM Gwalior.
 
