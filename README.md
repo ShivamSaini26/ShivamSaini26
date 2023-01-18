@@ -1,4 +1,4 @@
-🙋‍♂️Hi, I’m Shivam a PG Student from India.
+🙋‍♂️Hi, I’m Shivam final year Computer application student.
 
 👀 Pursing MCA from ITM Gwalior.
 
