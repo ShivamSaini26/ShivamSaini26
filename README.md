@@ -1,8 +1,10 @@
-🙋‍♂️Hi, I’m Shivam a final year Computer application student.
+🙋‍♂️Hi, I’m Shivam..
 
-👀 Pursing MCA from ITM Gwalior.
+👀 REcently graduated in MCA from ITM Gwalior.
 
 🌱 I’m currently polishing my Development skills on technologies like vanila Js and MERN stack web development.
+
+🛞 Learning Node.js
 
 📫 Reach me?? => email at- shivam.saini2126@gmail.com.
 
