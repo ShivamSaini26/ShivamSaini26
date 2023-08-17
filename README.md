@@ -4,7 +4,7 @@
 
 🌱 I’m currently polishing my Development skills on technologies like vanila Js and MERN stack web development.
 
-🛞 Learning - Web Development - React.js/Node.js
+🛞 Web Development - React.js/Node.js
 
 📫 Reach me?? => email at- shivam.saini2126@gmail.com.
 
