@@ -6,7 +6,6 @@
 
 🛞 Aspiring MERN stack Developer.
 
-📫 Reach me?? => email at- shivam.saini2126@gmail.com.
 
 
 <!---
